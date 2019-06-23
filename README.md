@@ -6,7 +6,7 @@ Follow steps below to build and run the application. Make sure your backend Spri
 
 Clone the repository:
 
-`git clone https://github.com/adamquan/carfront.git`
+`git clone https://github.com/alessandroganci/carfront.git`
 
 Install dependencies:
 
